@@ -1,0 +1,10 @@
+personal details
+
+Name:Rithika.R
+Date of birth:10.08.2006
+Gender:Female
+
+Education
+
+Department:BCA
+Univercity:Bharathidhasan Univercity
